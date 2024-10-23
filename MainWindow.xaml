@@ -27,7 +27,7 @@
         <TextBox x:Name="KeyText" HorizontalAlignment="Left" Margin="355,35,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="2"/>
         <Label x:Name="KeyLabel" Content="Key" HorizontalAlignment="Left" Margin="355,4,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Grid.ColumnSpan="2"/>
         <Label x:Name="AlgorithmLabel" Content="Algorithm" HorizontalAlignment="Left" Margin="351,228,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Grid.ColumnSpan="2"/>
-        <ComboBox x:Name="AlgorithmCombobox" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="355,260,0,0" VerticalAlignment="Top" Width="183" SelectedIndex="0">
+        <ComboBox x:Name="AlgorithmCombobox" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="355,260,0,0" VerticalAlignment="Top" Width="183" SelectedIndex="0" SelectionChanged="AlgorithmCombobox_SelectionChanged">
             <ComboBoxItem Content="DES"/>
             <ComboBoxItem Content="AES-128"/>
             <ComboBoxItem Content="AES-192"/>

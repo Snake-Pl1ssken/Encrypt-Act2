@@ -19,7 +19,7 @@ namespace CifradoSimetrico
 
         public bool CanTransformMultipleBlocks { get { return false; } }
 
-        public bool CanReuseTransform { get { return false; } }
+        public bool CanReuseTransform { get { return true; } }
 
         public int InputBlockSize { get { return 16; } }
 

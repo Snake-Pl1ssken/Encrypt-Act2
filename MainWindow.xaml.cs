@@ -92,7 +92,7 @@ namespace CifradoSimetrico
 
                 // Obtenemos el transform que corresponda a la operación y el algoritmo que vayamos a usar
 
-                ICryptoTransform transform;
+                ICryptoTransform transform = null;
 
                 if (algorithm == 0)
                 {
@@ -101,8 +101,8 @@ namespace CifradoSimetrico
                     DES des = DES.Create();
                     des.Mode = CipherMode.CBC;
                     des.Key = keyBytes;
-                    
-                    if(encrypt)
+
+                    if (encrypt)
                     {
                         des.GenerateIV();
                         outputFile.Write(des.IV);
@@ -122,19 +122,55 @@ namespace CifradoSimetrico
                     }
 
                 }
-                else if(algorithm == 1 || algorithm == 2 || algorithm == 3)
+                else if (algorithm == 1)
                 {
-                    // Algoritmo AES
+                    // Algoritmo AES - 128
 
-                    MessageBox.Show("Algoritmo no implementado", "Error");
-                    return;
-                    
+                    Aes aes = Aes.Create();
+                    aes.Mode = CipherMode.ECB;
+                    aes.Key = keyBytes;
+                    aes.Padding = PaddingMode.PKCS7;
+
+
+
+                    //DES des = DES.Create();
+                    //des.Mode = CipherMode.CBC;
+                    //des.Key = keyBytes;
+
+                    if (encrypt)
+                    {
+                        //des.GenerateIV();
+                        //outputFile.Write(des.IV);
+
+                        //transform = des.CreateEncryptor();
+                        transform = aes.CreateEncryptor();
+
+                    }
+                    else
+                    {
+                        //byte[] inputVector = new byte[8];
+                        //inputFile.Read(inputVector);
+
+                        //des.IV = inputVector;
+
+                        transform = aes.CreateDecryptor();
+
+                    }
+
+                }
+                else if (algorithm == 2)
+                {
+                    // Algoritmo AES - 192
+                }
+                else if (algorithm == 3)
+                {
+                    // Algoritmo AES - 256
                 }
                 else
                 {
                     // Algoritmo custom
-                     
-                    if(encrypt)
+
+                    if (encrypt)
                     {
                         transform = new MyEncryptor(keyBytes);
                     }
@@ -183,5 +219,9 @@ namespace CifradoSimetrico
             }
         }
 
+        private void AlgorithmCombobox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
