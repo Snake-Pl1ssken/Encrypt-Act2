@@ -1,0 +1,44 @@
+H:\VDJ\M09\Workspace\CifradoSimetrico\bin\Debug\net8.0-windows\CifradoSimetrico.exe
+H:\VDJ\M09\Workspace\CifradoSimetrico\bin\Debug\net8.0-windows\CifradoSimetrico.deps.json
+H:\VDJ\M09\Workspace\CifradoSimetrico\bin\Debug\net8.0-windows\CifradoSimetrico.runtimeconfig.json
+H:\VDJ\M09\Workspace\CifradoSimetrico\bin\Debug\net8.0-windows\CifradoSimetrico.dll
+H:\VDJ\M09\Workspace\CifradoSimetrico\bin\Debug\net8.0-windows\CifradoSimetrico.pdb
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\App.g.cs
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.cache
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.lref
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\MainWindow.baml
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.g.resources
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.GeneratedMSBuildEditorConfig.editorconfig
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfoInputs.cache
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfo.cs
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.CoreCompileInputs.cache
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.dll
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\refint\CifradoSimetrico.dll
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.pdb
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.genruntimeconfig.cache
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\ref\CifradoSimetrico.dll
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.Properties.Resources.resources
+H:\VDJ\M09\Workspace\CifradoSimetrico\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.GenerateResource.cache
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\App.g.cs
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.cache
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.lref
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.dll
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\refint\CifradoSimetrico.dll
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.pdb
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\bin\Debug\net8.0-windows\CifradoSimetrico.exe
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\bin\Debug\net8.0-windows\CifradoSimetrico.deps.json
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\bin\Debug\net8.0-windows\CifradoSimetrico.runtimeconfig.json
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\bin\Debug\net8.0-windows\CifradoSimetrico.dll
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\bin\Debug\net8.0-windows\CifradoSimetrico.pdb
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\MainWindow.baml
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.g.resources
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.Properties.Resources.resources
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.GenerateResource.cache
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.GeneratedMSBuildEditorConfig.editorconfig
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfoInputs.cache
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfo.cs
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.CoreCompileInputs.cache
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.genruntimeconfig.cache
+H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\ref\CifradoSimetrico.dll
