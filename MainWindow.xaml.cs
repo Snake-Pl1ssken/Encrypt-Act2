@@ -128,43 +128,89 @@ namespace CifradoSimetrico
 
                     Aes aes = Aes.Create();
                     aes.Mode = CipherMode.ECB;
-                    aes.Key = keyBytes;
                     aes.Padding = PaddingMode.PKCS7;
 
-
-
-                    //DES des = DES.Create();
-                    //des.Mode = CipherMode.CBC;
-                    //des.Key = keyBytes;
-
-                    if (encrypt)
+                    if (keyBytes.Length == 16)
                     {
-                        //des.GenerateIV();
-                        //outputFile.Write(des.IV);
+                        aes.Key = keyBytes;
 
-                        //transform = des.CreateEncryptor();
-                        transform = aes.CreateEncryptor();
-
+                        if (encrypt)
+                        {
+                            transform = aes.CreateEncryptor();
+                            //aes.Padding = PaddingMode.PKCS7;
+                        }
+                        else
+                        {
+                            transform = aes.CreateDecryptor();
+                            //aes.Padding = PaddingMode.PKCS7;
+                            //Console.WriteLine("Saliendo");
+                        }
                     }
                     else
                     {
-                        //byte[] inputVector = new byte[8];
-                        //inputFile.Read(inputVector);
-
-                        //des.IV = inputVector;
-
-                        transform = aes.CreateDecryptor();
-
+                        MessageBox.Show("ERROR tu clave a de ser exactamente de 16 caracteres", "Retry", MessageBoxButton.OK);
+                        return;
                     }
+
 
                 }
                 else if (algorithm == 2)
                 {
                     // Algoritmo AES - 192
+                    Aes aes = Aes.Create();
+                    aes.Mode = CipherMode.ECB;
+
+                    if (keyBytes.Length == 24)
+                    {
+                        aes.Key = keyBytes;
+                        aes.Padding = PaddingMode.PKCS7;
+
+                        if (encrypt)
+                        {
+                            transform = aes.CreateEncryptor();
+                            aes.Padding = PaddingMode.PKCS7;
+                        }
+                        else
+                        {
+                            transform = aes.CreateDecryptor();
+                            aes.Padding = PaddingMode.PKCS7;
+                            Console.WriteLine("Saliendo");
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("ERROR tu clave a de ser exactamente de 24 caracteres", "Retry", MessageBoxButton.OK);
+                        return;
+                    }
                 }
                 else if (algorithm == 3)
                 {
                     // Algoritmo AES - 256
+                    Aes aes = Aes.Create();
+                    aes.Mode = CipherMode.ECB;
+
+                    if (keyBytes.Length == 32)
+                    {
+                        aes.Key = keyBytes;
+                        aes.Padding = PaddingMode.PKCS7;
+
+                        if (encrypt)
+                        {
+                            transform = aes.CreateEncryptor();
+                            aes.Padding = PaddingMode.PKCS7;
+                        }
+                        else
+                        {
+                            transform = aes.CreateDecryptor();
+                            aes.Padding = PaddingMode.PKCS7;
+                            Console.WriteLine("Saliendo");
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("ERROR tu clave a de ser exactamente de 32 caracteres", "Retry", MessageBoxButton.OK);
+                        return;
+                    }
                 }
                 else
                 {

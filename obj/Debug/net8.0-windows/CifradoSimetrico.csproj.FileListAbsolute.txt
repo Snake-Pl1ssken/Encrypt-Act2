@@ -42,3 +42,26 @@ H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8
 H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.CoreCompileInputs.cache
 H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\CifradoSimetrico.genruntimeconfig.cache
 H:\VDJ\M09\Actividades\UF1 - ACT2 - CifradoSimetrico\ProyectoBase\obj\Debug\net8.0-windows\ref\CifradoSimetrico.dll
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\bin\Debug\net8.0-windows\CifradoSimetrico.exe
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\bin\Debug\net8.0-windows\CifradoSimetrico.deps.json
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\bin\Debug\net8.0-windows\CifradoSimetrico.runtimeconfig.json
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\bin\Debug\net8.0-windows\CifradoSimetrico.dll
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\bin\Debug\net8.0-windows\CifradoSimetrico.pdb
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\App.g.cs
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.cache
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.lref
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.g.resources
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.Properties.Resources.resources
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.GenerateResource.cache
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfoInputs.cache
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfo.cs
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.CoreCompileInputs.cache
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.sourcelink.json
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.dll
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\refint\CifradoSimetrico.dll
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.pdb
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.genruntimeconfig.cache
+D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\ref\CifradoSimetrico.dll
