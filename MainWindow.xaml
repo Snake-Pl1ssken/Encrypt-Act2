@@ -34,6 +34,7 @@
             <ComboBoxItem Content="AES-256"/>
             <ComboBoxItem Content="Custom"/>
         </ComboBox>
+        <Button x:Name="Stop_Music" Content="Stop Music" Grid.ColumnSpan="2" Margin="38,29,0,0" Click="Button_Click" Background="White" RenderTransformOrigin="0.655,-3.04" Width="90" HorizontalAlignment="Left" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

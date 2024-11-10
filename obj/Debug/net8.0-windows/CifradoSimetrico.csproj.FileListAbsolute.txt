@@ -65,3 +65,26 @@ D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\re
 D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.pdb
 D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\CifradoSimetrico.genruntimeconfig.cache
 D:\Jorge Luis Garcia Orbegoso\ProgramaServ\Repo-Act2\obj\Debug\net8.0-windows\ref\CifradoSimetrico.dll
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\bin\Debug\net8.0-windows\CifradoSimetrico.exe
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\bin\Debug\net8.0-windows\CifradoSimetrico.deps.json
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\bin\Debug\net8.0-windows\CifradoSimetrico.runtimeconfig.json
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\bin\Debug\net8.0-windows\CifradoSimetrico.dll
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\bin\Debug\net8.0-windows\CifradoSimetrico.pdb
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.cache
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico_MarkupCompile.lref
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.g.resources
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.Properties.Resources.resources
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.GenerateResource.cache
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfoInputs.cache
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.AssemblyInfo.cs
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.csproj.CoreCompileInputs.cache
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.sourcelink.json
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.dll
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\refint\CifradoSimetrico.dll
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.pdb
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\CifradoSimetrico.genruntimeconfig.cache
+C:\Users\Plissken\Desktop\Jorge Luis\Grado Superior\DAM VDJGO 02\ProgramaServ\UF1\ProgramacionServicios---Act2\obj\Debug\net8.0-windows\ref\CifradoSimetrico.dll

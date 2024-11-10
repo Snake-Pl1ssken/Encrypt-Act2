@@ -137,18 +137,15 @@ namespace CifradoSimetrico
                         if (encrypt)
                         {
                             transform = aes.CreateEncryptor();
-                            //aes.Padding = PaddingMode.PKCS7;
                         }
                         else
                         {
                             transform = aes.CreateDecryptor();
-                            //aes.Padding = PaddingMode.PKCS7;
-                            //Console.WriteLine("Saliendo");
                         }
                     }
                     else
                     {
-                        MessageBox.Show("ERROR tu clave a de ser exactamente de 16 caracteres", "Retry", MessageBoxButton.OK);
+                        MessageBox.Show("Error tu clave a de ser exactamente de 16 caracteres", "ERROR en tamaño de clave", MessageBoxButton.OK);
                         return;
                     }
 
@@ -179,7 +176,7 @@ namespace CifradoSimetrico
                     }
                     else
                     {
-                        MessageBox.Show("ERROR tu clave a de ser exactamente de 24 caracteres", "Retry", MessageBoxButton.OK);
+                        MessageBox.Show("ERROR tu clave a de ser exactamente de 24 caracteres", "ERROR en tamaño de clave", MessageBoxButton.OK);
                         return;
                     }
                 }
@@ -268,6 +265,11 @@ namespace CifradoSimetrico
         private void AlgorithmCombobox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            player.Stop();
         }
     }
 }
